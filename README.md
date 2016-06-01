@@ -1,3 +1,10 @@
+Deprecated
+----------
+
+**This project is deprecated.** If you want to manipulate collections, you should use Java 8 Stream API(or [Lightweight-Stream-API](https://github.com/aNNiMON/Lightweight-Stream-API)).
+
+I changed this project as [Stream API Exercise](https://github.com/Nkzn/Java8StreamAPIExercise). Please use it.
+
 RxJavaExercise
 ====================
 
